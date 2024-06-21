@@ -6,7 +6,7 @@ El objetivo de este proyecto es desarrollar un sistema de visión por computador
 
 ## Contenido
 * Código fuente: El archivo TFG_seguimiento.py contiene el código del nodo ROS2 desarrollado para realizar el seguimiento de personas utilizando técnicas de visión por computador.
-*Documentación: El archivo TFG_Raúlv1.docx incluye la memoria del proyecto, detallando el desarrollo, la metodología, las pruebas realizadas y los resultados obtenidos.
+* Documentación: El archivo TFG_Raúlv1.docx incluye la memoria del proyecto, detallando el desarrollo, la metodología, las pruebas realizadas y los resultados obtenidos.
 
 ## Requisitos
 Para ejecutar el código de este proyecto, necesitarás:
